@@ -15,6 +15,8 @@ BI &amp; Data Analytics Portfolio
 /Data base estructure: variables – dimensions, define transactional tables, schemas (star)- data types
 /Data base Wharehouse – site – back up - testing
 
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20MECON%20porject.PNG)
+
 # Project 2:  Analysis of trends and metrics- La.Radio.live: 
 For this project I have select and define a series of metrics, relevant to analyze the performance of the Facebook site for the company, LaRadio.live. 
 
