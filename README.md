@@ -21,7 +21,9 @@ For this project I have select and define a series of metrics, relevant to analy
 
 Gathering all this information I was able to summary the performance of the Facebook site, estimate by linear regression the future like level. Through this analysis I have generated actionable conclusions and extraction of actionable insights, in order to calibrate the marketing strategy of the company. 
 
+Broadcasting Performance:
 
+![]https://github.com/gastonlucca/Gaston-Portfolio/commit/f2123827dc5fe9ed24d2e5e3d1ca7d5cc2eabf84
 
 # Project 3: Support Function Cost Automation: Objetives, Estructure & Dashboard visualization
 
