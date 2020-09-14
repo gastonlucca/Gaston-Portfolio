@@ -23,7 +23,7 @@ Gathering all this information I was able to summary the performance of the Face
 
 Broadcasting Performance:
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/La%20Radio.%20Correlation.PNG)
+![Broadcasting Performance](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/La%20Radio.%20Correlation.PNG)
 
 # [Project 3: Support Function Cost Automation: Objetives, Estructure & Dashboard visualization](https://github.com/gastonlucca/Gaston-Portfolio)
 
