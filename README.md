@@ -3,16 +3,16 @@ BI &amp; Data Analytics Portfolio
 # [Project 1: Data Base & BI reporting: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio) 
 * BI REPORTING ESTRUCTURE: Create a system of BI reporting which allow an display of data and reporting system, to track the performance of the program. 
 
-   / Definition of reporting tool – Slides presentations
-/ Defitions of KPIs
-/ Definition of dasboard, regular reporting and ad- hoc reporting
+1. Definition of reporting tool – Slides presentations
+2. Defitions of KPIs
+3. Definition of dasboard, regular reporting and ad- hoc reporting
 
 * DATA BASE ESTRUCTURE: Design and create a solid data base which contain structural data, easy to retrieve which allows answer simples queries.
 
-   /Data gathering porcess and normalization
-/ETL procces 
-/Data base estructure: variables – dimensions, define transactional tables, schemas (star)- data types
-/Data base Wharehouse – site – back up - testing
+1. Data gathering porcess and normalization
+2. ETL procces 
+3. Data base estructure: variables – dimensions, define transactional tables, schemas (star)- data types
+4. Data base Wharehouse – site – back up - testing
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20MECON%20porject.PNG)
 
@@ -26,15 +26,15 @@ Broadcasting Performance:
 ![Broadcasting Performance](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/La%20Radio.%20Correlation.PNG)
 
 # [Project 3: Support Function Cost Automation: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
-* OBJECTIVES 
+* OBJECTIVES: 
 
-   / To improve collection, preparation and display of data to promote a change in financial analysis department.
-/ Automatization of process that it is been build from different sources (SAP ERP, ORACLE, manual settings, local files) 
+1. To improve collection, preparation and display of data to promote a change in financial analysis department.
+2. Automatization of process that it is been build from different sources (SAP ERP, ORACLE, manual settings, local files) 
 
-* ESTRUCTURE 
+* ESTRUCTURE: 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model-%20Estructure.PNG)
 
-* DASHBOARDS
+* DASHBOARDS:
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%201.png)
 
