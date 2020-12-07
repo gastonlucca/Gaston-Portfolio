@@ -3,7 +3,7 @@ BI &amp; Data Analytics Portfolio
 # [Project 1: Data Base & BI reporting: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio) 
 * BI REPORTING ESTRUCTURE: Create a system of BI reporting which allow an display of data and reporting system, to track the performance of the program. 
 
-1. Definition of reporting tool – Slides presentations
+1. Definition of reporting tool 
 2. Defitions of KPIs
 3. Definition of dasboard, regular reporting and ad- hoc reporting
 
