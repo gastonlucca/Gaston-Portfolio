@@ -25,7 +25,21 @@ Broadcasting Performance:
 
 ![Broadcasting Performance](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/La%20Radio.%20Correlation.PNG)
 
-# [Project 3: Support Function Cost Automation: Objetives, Estructure & Dashboard visualization](https://github.com/gastonlucca/Gaston-Portfolio)
+# [Project 3: Support Function Cost Automation: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
+* OBJECTIVES 
 
+   / To improve collection, preparation and display of data to promote a change in financial analysis department.
+/ Automatization of process that it is been build from different sources (SAP ERP, ORACLE, manual settings, local files) 
+
+* ESTRUCTURE 
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model-%20Estructure.PNG)
+
+* DASHBOARDS
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%201.png)
+![].(https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%202.png)
+![].(https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
+
+
+  
 
 
