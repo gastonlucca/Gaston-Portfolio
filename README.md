@@ -35,9 +35,11 @@ Broadcasting Performance:
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model-%20Estructure.PNG)
 
 * DASHBOARDS
+
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%201.png)
-![].(https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%202.png)
-![].(https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
+
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%202.png)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
 
 
   
