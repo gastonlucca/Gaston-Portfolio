@@ -45,7 +45,7 @@ Broadcasting Performance:
 # [Project 4: Finances BI Report:Project Overview](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
 
-1. Porvide to finances a BI solution in order to improve the collection and display of data
+1. Provide to the finances department a BI solution in order to improve the collection and display of data
 2. Improve data visualization and analytics through Tableau softwares
 
 > Note: under construction
