@@ -42,7 +42,7 @@ Broadcasting Performance:
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
 
 
-# [Project 4: Finances BI Report:Project Overview](https://github.com/gastonlucca/Gaston-Portfolio)
+# [Project 4: Finances BI Report: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
 
 1. Provide to the finances department a BI solution in order to improve the collection and display of data
