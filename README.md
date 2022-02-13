@@ -70,4 +70,7 @@ Broadcasting Performance:
 3. Database structure: variables – dimensions, define transactional tables, schemas (star)- data types
 4. Database Wharehouse – site – back up - testing  
 
+# [Project 6: Project 5: Deploying Data Governance base on DCAM approach](https://github.com/gastonlucca/Gaston-Portfolio) 
 
+*  What is the right strategy to develop a solid data analytic environment in an organization
+* Customizing DCAM based on the particularities of your organization
