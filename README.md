@@ -50,7 +50,7 @@ Broadcasting Performance:
 1. Provide to the finances department a BI solution in order to improve the collection and display of data
 2. Improve data visualization and analytics through Tableau softwares
 
-> Note: under construction
+> Note: WIP
 
 # [Project 5: Deploying BI solution & Advanced analytics with IDS - AWS + Tableau](https://github.com/gastonlucca/Gaston-Portfolio) 
 * BI REPORTING ESTRUCTURE: Create a system of BI & Advance analitic reporting which allow to cover Business use case (bussines analitics demands) 
@@ -70,7 +70,11 @@ Broadcasting Performance:
 3. Database structure: variables – dimensions, define transactional tables, schemas (star)- data types
 4. Database Wharehouse – site – back up - testing  
 
+> Note: WIP
+
 # [Project 6: Deploying Data Governance base on DCAM approach](https://github.com/gastonlucca/Gaston-Portfolio) 
 
 *  What is the right strategy to develop a solid data analytic environment in an organization
 * Customizing DCAM based on the particularities of your organization
+
+> Note: WIP
