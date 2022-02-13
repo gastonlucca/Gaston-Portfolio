@@ -32,6 +32,8 @@ Broadcasting Performance:
 2. Automatization of process that it is been build from different sources (SAP ERP, ORACLE, manual settings, local files) 
 
 * ESTRUCTURE: 
+
+
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model-%20Estructure.PNG)
 
 * DASHBOARDS:
@@ -50,6 +52,22 @@ Broadcasting Performance:
 
 > Note: under construction
 
-  
+# [Project 5: Deplying BI solution & Advance analitycs with IDS - AWS + Tableau](https://github.com/gastonlucca/Gaston-Portfolio) 
+* BI REPORTING ESTRUCTURE: Create a system of BI & Advance analitic reporting which allow to cover Business use case (bussines analitics demands) 
+
+1. Definition of Use case (Agile medology/ Canva model) 
+2. Bussines/Data Analysys + prioritization: How to solve the use case and how we priorotaze the backlog 
+3. Data Architecture: what is the data architecture I need to resolve this poroble
+4. Defitions of KPIs, Busines rules, data quality rules, Critical data elements 
+5. Depoloy data governance: to garantte that the technical solution is complience with the company data strategy (Dat qualiti, tools, data security) 
+6. Development part: Coding (Scrum master metodology) + UAT + delivering the model 
+7. Definition of dasboard, regular reporting and ad- hoc reporting
+
+* DATA BASE ESTRUCTURE: Design and create a solid data base which contain structural data, easy to retrieve which allows answer simples queries + live data connection
+
+1. Data gathering porcess and normalization
+2. ETL procces + data ingestion 
+3. Data base estructure: variables – dimensions, define transactional tables, schemas (star)- data types
+4. Data base Wharehouse – site – back up - testing  
 
 
