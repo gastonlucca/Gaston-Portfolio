@@ -1,17 +1,17 @@
 BI &amp; Data Analytics Portfolio
 
-# [Project 1: Data Base & BI reporting: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio) 
-* BI REPORTING ESTRUCTURE: Create a system of BI reporting which allow an display of data and reporting system, to track the performance of the program. 
+# [Project 1: DataBase & BI reporting: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio) 
+* BI REPORTING STRUCTURE: Create a system of BI reporting which allows a display of data and reporting system, to track the performance of the program.
 
 1. Definition of reporting tool 
-2. Defitions of KPIs
-3. Definition of dasboard, regular reporting and ad- hoc reporting
+2. Definitions of KPIs
+3. Definition of the dashboard, regular reporting, and ad-hoc reporting
 
-* DATA BASE ESTRUCTURE: Design and create a solid data base which contain structural data, easy to retrieve which allows answer simples queries.
+* DATABASE STRUCTURE: Design and create a solid database which contain structural data, easy to retrieve which allows answer simples queries.
 
 1. Data gathering porcess and normalization
 2. ETL procces 
-3. Data base estructure: variables – dimensions, define transactional tables, schemas (star)- data types
+3. Database estructure: variables – dimensions, define transactional tables, schemas (star)- data types
 4. Data base Wharehouse – site – back up - testing
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20MECON%20porject.PNG)
@@ -52,22 +52,22 @@ Broadcasting Performance:
 
 > Note: under construction
 
-# [Project 5: Deplying BI solution & Advance analitycs with IDS - AWS + Tableau](https://github.com/gastonlucca/Gaston-Portfolio) 
+# [Project 5: Project 5: Deploying BI solution & Advanced analytics with IDS - AWS + Tableau](https://github.com/gastonlucca/Gaston-Portfolio) 
 * BI REPORTING ESTRUCTURE: Create a system of BI & Advance analitic reporting which allow to cover Business use case (bussines analitics demands) 
 
-1. Definition of Use case (Agile medology/ Canva model) 
-2. Bussines/Data Analysys + prioritization: How to solve the use case and how we priorotaze the backlog 
-3. Data Architecture: what is the data architecture I need to resolve this poroble
-4. Defitions of KPIs, Busines rules, data quality rules, Critical data elements 
-5. Depoloy data governance: to garantte that the technical solution is complience with the company data strategy (Dat qualiti, tools, data security) 
-6. Development part: Coding (Scrum master metodology) + UAT + delivering the model 
-7. Definition of dasboard, regular reporting and ad- hoc reporting
+1. Definition of Use case (Agile methodology/ Canva model) 
+2. Business/Data Analysis + prioritization: How to solve the use case and how we prioritize the backlog 
+3. Data Architecture: What is the data architecture I need to resolve this problem
+4. Definitions of KPIs, business rules, data quality rules, Critical data elements 
+5. Deploy data governance: to guarantee that the technical solution is in compliance with the company data strategy (Dat quality, tools, data security) 
+6. Development part: Coding (Scrum master methodology) + UAT + delivering the model 
+7. Definition of the dashboard, regular reporting, and ad-hoc reporting
 
-* DATA BASE ESTRUCTURE: Design and create a solid data base which contain structural data, easy to retrieve which allows answer simples queries + live data connection
+* DATABASE STRUCTURE: Design and create a solid database that contains structural data, easy to retrieve which allows answer simple queries + live data connection
 
-1. Data gathering porcess and normalization
-2. ETL procces + data ingestion 
-3. Data base estructure: variables – dimensions, define transactional tables, schemas (star)- data types
-4. Data base Wharehouse – site – back up - testing  
+1. Data gathering process and normalization
+2. ETL process + data ingestion 
+3. Database structure: variables – dimensions, define transactional tables, schemas (star)- data types
+4. Database Wharehouse – site – back up - testing  
 
 
