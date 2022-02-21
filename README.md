@@ -14,7 +14,7 @@ BI &amp; Data Analytics Portfolio
 3. Database estructure: variables – dimensions, define transactional tables, schemas (star)- data types
 4. Data base Wharehouse – site – back up - testing
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20MECON%20porject.PNG)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20MECON%20porject%202.PNG)
 
 # [Project 2:  Analysis of trends and metrics for La.Radio.live](https://github.com/gastonlucca/Gaston-Portfolio)
 For this project I have select and define a series of metrics, relevant to analyze the performance of the Facebook site for the company, [LaRadio.live](https://laradio.live/)
@@ -50,6 +50,8 @@ Broadcasting Performance:
 1. Provide to the finances department a BI solution in order to improve the collection and display of data
 2. Improve data visualization and analytics through Tableau softwares
 
+
+
 > Note: WIP
 
 # [Project 5: Deploying BI solution & Advanced analytics with IDS - AWS + Tableau](https://github.com/gastonlucca/Gaston-Portfolio) 
@@ -70,11 +72,23 @@ Broadcasting Performance:
 3. Database structure: variables – dimensions, define transactional tables, schemas (star)- data types
 4. Database Wharehouse – site – back up - testing  
 
+* Process automation  by DDBB deployment: Data flow
+
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/IDS%20Data%20Flow.PNG)
+
+* Data Architecture + data ingestion for data model customization 
+
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20Architecture.PNG)
+
 > Note: WIP
 
 # [Project 6: Deploying Data Governance base on DCAM approach](https://github.com/gastonlucca/Gaston-Portfolio) 
 
-*  What is the right strategy to develop a solid data analytic environment in an organization
+* What is the right strategy to develop a solid data analytic environment in an organization
 * Customizing DCAM based on the particularities of your organization
+* Active data security: Virtuous data quality circle
+* Active data security: Data attack surface - Data breach map - Deploy of the control point of access 
+
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/dcam_components_graphic_feb_.png)
 
 > Note: WIP
