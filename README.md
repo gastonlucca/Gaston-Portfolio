@@ -101,6 +101,6 @@ Broadcasting Performance:
 4. Data architecture to be programming on ETL Power Center  
 5. Designing the schema
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/dcam_components_graphic_feb_.png)
+![](Quotation model on SAP ERP.PNG)
 
 
