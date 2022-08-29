@@ -103,4 +103,13 @@ Broadcasting Performance:
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Quotation%20model%20on%20SAP%20ERP.PNG)
 
+Schema target 	tabla target 	Schema	Object	Depedent Schema	Dependent Object (Table /View)	Fields (join)	JOIN CLAUSE
+edw_europebi	edw_europebi.fact_ offert_detail _ iberia 	app_0108_europebi	sd_ibs_zqu_hgen	app_0108_europebi	sd_ibs_zqu_det	nquot + nvrsio	left join app_0108_europebi.sd_ibs_zqu_det det on hgen.nquot = det.nquot and hgen.nvrsio = det.nvrsio
+edw_europebi	edw_europebi.fact_ offert_detail _ iberia 	app_0108_europebi	sd_ibs_zqu_hgen	app_0108_europebi	sd_ibs_zqu_hstd	nquot + nvrsio	left join app_0108_europebi.sd_ibs_zqu_hstd hstd on hgen.nquot = hstd.nquot and hgen.nvrsio = hstd.nvrsio
+edw_europebi	edw_europebi.fact_ offert_detail _ iberia 	app_0108_europebi	sd_ibs_zqu_hgen	app_0108_europebi	sd_ibs_zqu_cust	nquot + nvrsio	left join app_0108_europebi.sd_ibs_zqu_cust cust on cust.nquot = hgen.nquot and cust.nvrsio = hgen.nvrsio
+edw_europebi	edw_europebi.fact_ offert_detail _ iberia 	app_0108_europebi	sd_ibs_zqu_hgen	app_0108_europebi	sd_ibs_zqu_1stascht	stsch , status, spras	left join app_0108_europebi.sd_ibs_zqu_1stascht stascht   on hgen.stsch =stascht.stsch and hgen.status=stascht.status and hgen.spras=stascht.spras
+edw_europebi	edw_europebi.fact_ offert_detail _ iberia 	app_0108_europebi	sd_ibs_zqu_hgen	edw	dim_schneider_worker (usertable)	usercrea_id	left join edw.dim_schneider_worker usertable ON usertable.id_ = hgen.usercrea
+edw_europebi	edw_europebi.fact_ offert_detail _ iberia 	app_0108_europebi	sd_ibs_zqu_hgen	edw	dim_customer_all (acc) 	leg_sacc_id_ 	left join edw_di_customer_all acc ON acc.leg_sacc_id_= mcust.sapcust  ???
+edw_europebi	edw_europebi.fact_ offert_detail _ iberia 	app_0108_europebi	sd_ibs_zqu_hgen	edw_europebi	fact_net_orders_service_contracts_iberia (fact) 	zzoferta	left join edw_europebi.fact_net_orders_service_contracts_iberia fact  ON fac.zzoferta = hgen.nquot
+![image](https://user-images.githubusercontent.com/69059703/187313949-4b167243-ee7a-4ed1-ab25-ee2da7340d7c.png)
 
