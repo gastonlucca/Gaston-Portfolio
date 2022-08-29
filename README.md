@@ -92,3 +92,15 @@ Broadcasting Performance:
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/dcam_components_graphic_feb_.png)
 
 > Note: WIP
+
+# [Project 7: Data Architecture for quotanion model](https://github.com/gastonlucca/Gaston-Portfolio)
+
+1. Data research to create a quotation model based on SAP 
+2. Data ingestion and analysis 
+3. JOIN STATEMENT identification on SQL code
+4. Data architecture to be programming on ETL Power Center  
+5. Designing the schema
+
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/dcam_components_graphic_feb_.png)
+
+
