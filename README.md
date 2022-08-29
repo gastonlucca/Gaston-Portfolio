@@ -101,6 +101,6 @@ Broadcasting Performance:
 4. Data architecture to be programming on ETL Power Center  
 5. Designing the schema
 
-![](Quotation model on SAP ERP.PNG)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Quotation%20model%20on%20SAP%20ERP.PNG)
 
 
