@@ -103,7 +103,7 @@ Broadcasting Performance:
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Quotation%20model%20on%20SAP%20ERP.PNG)
 
-Target Tables - Suorce tables - SQL JOIN STATEMENT 
+Target Tables - Source tables - SQL JOIN STATEMENT 
 
 ![image](https://user-images.githubusercontent.com/69059703/187313949-4b167243-ee7a-4ed1-ab25-ee2da7340d7c.png)
 
