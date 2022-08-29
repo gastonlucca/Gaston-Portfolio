@@ -93,7 +93,7 @@ Broadcasting Performance:
 
 > Note: WIP
 
-# [Project 7: Data Architecture for quotanion model](https://github.com/gastonlucca/Gaston-Portfolio)
+# [Project 7: Data Architecture for quotation model](https://github.com/gastonlucca/Gaston-Portfolio)
 
 1. Data research to create a quotation model based on SAP 
 2. Data ingestion and analysis 
