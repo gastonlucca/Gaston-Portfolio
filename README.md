@@ -107,7 +107,7 @@ Target Tables - Source tables - SQL JOIN STATEMENT
 
 ![image](https://user-images.githubusercontent.com/69059703/187313949-4b167243-ee7a-4ed1-ab25-ee2da7340d7c.png)
 
-# [Project 8: Machine Learning model- recommedation sistem for sales team]
+# [Project 8: Machine Learning model- recommedation sistem for sales team](https://github.com/gastonlucca/Gaston-Portfolio)
 
 1. Scoping and flameworking the problem statement: use case elaboration 
 2. Data Reserach and exploration: exploring the data available on the database level and data sources
