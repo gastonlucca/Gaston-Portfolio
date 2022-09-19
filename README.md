@@ -113,4 +113,8 @@ Target Tables - Source tables - SQL JOIN STATEMENT
 2. Data Reserach and exploration: exploring the data available on the database level and data sources
 3. IT architecture for scalable machine learning models: what is the right IT architecture to scale models?
 
+![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%201.PNG)
+
+![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%202.PNG)
+
 > Note: WIP
