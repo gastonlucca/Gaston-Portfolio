@@ -5,7 +5,7 @@ BI & Data Analitics; Data Analytics Portfolio
 
 1. Definition of reporting tool 
 2. Definitions of KPIs
-3. Definition of the dashboard, regular reporting, and ad-hoc reporting
+3. Definition and elavoration of the dashboard, regular reporting, and ad-hoc reporting
 
 * DATABASE STRUCTURE: Design and create a solid database which contain structural data, easy to retrieve which allows answer simples queries.
 
@@ -13,6 +13,7 @@ BI & Data Analitics; Data Analytics Portfolio
 2. ETL procces 
 3. Database estructure: variables – dimensions, define transactional tables, schemas (star)- data types
 4. Data base Wharehouse – site – back up - testing
+5. Data Visualization on Qlick View and PowerPoint
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20MECON%20porject%202.PNG)
 
@@ -98,8 +99,8 @@ Broadcasting Performance:
 1. Data research to create a quotation model based on SAP 
 2. Data ingestion and analysis 
 3. JOIN STATEMENT identification on SQL code
-4. Data architecture to be programming on ETL Power Center  
-5. Designing the schema
+4. Data architecture to be programming on a ETL software (Power Center/ Informatica Cloud /SnapLogic)
+5. Designing the data schema nad architecture 
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Quotation%20model%20on%20SAP%20ERP.PNG)
 
