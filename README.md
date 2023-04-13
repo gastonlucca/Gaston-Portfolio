@@ -61,7 +61,7 @@ Mobile expenses by Business Unit.
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Mobile%20Expense.PNG)
 
-Sales by Business Unit 
+Sales by Business Unit
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Sales.PNG)
 
