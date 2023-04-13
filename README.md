@@ -26,7 +26,7 @@ Broadcasting Performance:
 
 ![Broadcasting Performance](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/La%20Radio.%20Correlation.PNG)
 
-# [Project 3: Support Function Cost Automation: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
+# [Project 3.1 (Tableau): Support Function Cost Automation: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
 
 1. To improve collection, preparation and display of data to promote a change in financial analysis department.
@@ -44,7 +44,7 @@ Broadcasting Performance:
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%202.png)
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
 
-# [Project 3.1: Support Function Cost Automation: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
+# [Project 3.2 (PowerBI): Support Function Cost Automation + Sales: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
 
 1. To improve collection, preparation and display of data to promote a change in financial analysis department.
@@ -56,8 +56,14 @@ Broadcasting Performance:
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC%20Data%20Architecture%202.PNG)
 
 * DASHBOARDS:
+Mobile expenses by Business Unit.
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%201.png)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Mobile%20Expense.PNG)
+
+Sales by Business Unit 
+
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Sales.PNG)
+
 
 # [Project 4: Finances BI Report: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
