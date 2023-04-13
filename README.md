@@ -44,6 +44,20 @@ Broadcasting Performance:
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%202.png)
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
 
+# [Project 3.1: Support Function Cost Automation: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
+* OBJECTIVES: 
+
+1. To improve collection, preparation and display of data to promote a change in financial analysis department.
+2. Automatization of process that it is been build from different sources (SAP ERP, ORACLE, manual settings, local files) 
+
+* ESTRUCTURE: 
+
+
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC%20Data%20Architecture.PNG)
+
+* DASHBOARDS:
+
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%201.png)
 
 # [Project 4: Finances BI Report: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
