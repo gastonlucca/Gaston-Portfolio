@@ -79,7 +79,7 @@ Sales by Business Unit
 # [Project 5: Deploying BI solution & Advanced analytics with IDS - AWS + Tableau](https://github.com/gastonlucca/Gaston-Portfolio) 
 * BI REPORTING ESTRUCTURE: Create a system of BI & Advance analitic reporting which allow to cover Business use case (bussines analitics demands) 
 
-1. Definition of Use case (Agile methodology/ Canva model) 
+1. Definition of Use case (Agile / kanva methodology) 
 2. Business/Data Analysis + prioritization: How to solve the use case and how we prioritize the backlog 
 3. Data Architecture: What is the data architecture I need to resolve this problem
 4. Definitions of KPIs, business rules, data quality rules, Critical data elements 
