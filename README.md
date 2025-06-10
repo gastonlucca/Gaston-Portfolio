@@ -1,5 +1,10 @@
 BI & Data Analitics; Data Analytics Portfolio
 
+
+## 👋 Hi, I'm Gaston Lucca
+I'm a Business Intelligence and Data Analytics professional with experience in building data pipelines, dashboards, and actionable insights using tools like Tableau, Power BI, and QlikView.
+
+
 # [Project 1: DataBase & BI reporting: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio) 
 * BI REPORTING STRUCTURE: Create a system of BI reporting which allows a display of data and reporting system, to track the performance of the program.
 
@@ -140,3 +145,49 @@ Target Tables - Source tables - SQL JOIN STATEMENT
 ![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%202.PNG)
 
 > Note: WIP
+
+# [ Project 9: Artificial Intelligence Hackathon (Winner)  ](https://github.com/gastonlucca/Gaston-Portfolio)
+
+Plataform: Data 
+Librari: Faiss library
+
+Use Case: 
+
+Data source analysis: Analysis of the Data Source reveal that Data source is unstructured and risks of Word-to-Word comparisons because of the dependency of the Content and Technical Specific.
+
+Solution: Steps of the solution includes the following actions: Data Preparation, Data Validation, LMM, Reporting and Visualisation. (Dummy Data)
+
+![image](https://github.com/user-attachments/assets/a97a6c88-33af-40f7-80a9-52d12d23f847)
+
+Visualization: Developed on Tableau (Dummy Data)
+
+![image](https://github.com/user-attachments/assets/bb41ca88-7db3-4043-b097-958f6e34d11f)
+
+Benefits the model  model :
+Gives detailed matrix after one iteration of SS calculation
+
+Using LLM we save the Context impact.
+
+Flexible Threshold defined by user
+
+Give the pool of similar FAQs biased SS and on FAQ related. 
+
+Extract the FAQ if they are connected and allow fast access to online check
+
+Risk Avoided:
+Word-to-Word comparison lose the Context.
+
+All Experts to use it as interface to make a final validation.
+
+Scale up & Next steps
+![image](https://github.com/user-attachments/assets/41061bb2-ff5e-40f3-9ba6-428e99abaa88)
+
+
+> Note: WIP
+
+# [Project 10: Digital Data Analitics Sales Products](https://github.com/gastonlucca/Gaston-Portfolio)
+
+
+
+> Note: WIP
+
