@@ -196,17 +196,56 @@ Scale up & Next steps
 
 Product 1: Greenberry
 
-Obejective: 
+What is ? 
+Greenberry+ is a Business Intelligence Tableau Dashboard that showcases Sales-related Data collected from bFO into advanced analytics. 
+It empowers the Sales population to effortlessly convert Sales data into valuable insights focusing on the Opportunity Pipeline analysis: a powerful support to adjust their commercial strategy, ensuring flexible responses to market dynamics.
 
-Taget audience: 
+Key Features​​​​​​​
+- Monitor segments and Targeted Accounts performance.
+- Data-driven business insights & actionable intelligence
+- Data consistency across countries, BU and segments
+- DMonthly/Quarterly Business Reviews preparation
+- Targeted view: Performance, pipeline & forecast analysis
+- Secure Power & Energy Management QBR analysis
+- Strategic customer & Segment performance, with AVEVA
+- Deep dive abilities: by geography, segment, services
+
+Taget audience: Sales manager, sales globals VP, and sales Operation team 
 
 Active Users: 1500
 
 Product 2: Platforming and Coverage
 
-Obejective: 
+What is Platforming & Coverage BI?
 
-Taget audience: 
+Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
+
+Platforming & Coverage BI is the new tool of reference to positively influence your Platforming & Coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
+
+Understand their gaps in platforming ​& coverage
+Identify potential ways for improvement
+Optimize their commercial resource allocation
+
+
+Key Features
+
+PLATFORMING​
+
+View total accounts for my team/country in the 9-box view​
+Customize the data view based on the info YOU wish to know.​
+View performance by bFO Sales, Net orders, Digital Engagement etc…
+COVERAGE​
+
+Am I covering my accounts as per their attractiveness​
+…as per my plan?​
+…as per their revenue or potential revenue?​
+Are there customers engaging with Schneider that I’m unaware of?​
+BENCHMARK​
+
+How am I performing on the official KPIs?​
+What is my country’s ranking?
+
+Target audience: 
 
 Active Users: 500
 
