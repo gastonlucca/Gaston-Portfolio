@@ -148,10 +148,17 @@ Target Tables - Source tables - SQL JOIN STATEMENT
 
 # [ Project 9: Artificial Intelligence Hackathon (Winner)  ](https://github.com/gastonlucca/Gaston-Portfolio)
 
-Plataform: Data 
-Librari: Faiss library
 
-Use Case: 
+Problem statement: ​Digital Customer Support has identified duplications in Articles and Documents, which hinder customers from easily finding specific solutions to their issues or searches.
+
+Goal:
+Our objective is to develop a sustainable solution aligned with Schneider data standards that compares Articles, Documents, and Links, providing accurate similarity scores based on title and responses comparisons.Additionally, use case-oriented visualizations will highlight potential duplicates, assisting agents in the analysis and optimization of the content.
+
+SaasS Plataform: Dataiku 
+
+![image](https://github.com/user-attachments/assets/1e957080-8085-4e41-b734-c780c08709dc)
+
+Librari: Faiss library
 
 Data source analysis: Analysis of the Data Source reveal that Data source is unstructured and risks of Word-to-Word comparisons because of the dependency of the Content and Technical Specific.
 
@@ -187,7 +194,21 @@ Scale up & Next steps
 
 # [Project 10: Digital Data Analitics Sales Products](https://github.com/gastonlucca/Gaston-Portfolio)
 
+Product 1: Greenberry
 
+Obejective: 
+
+Taget audience: 
+
+Active Users: 1500
+
+Product 2: Platforming and Coverage
+
+Obejective: 
+
+Taget audience: 
+
+Active Users: 500
 
 > Note: WIP
 
