@@ -75,7 +75,7 @@ Sales by Business Unit
 * OBJECTIVES: 
 
 1. Provide to the finances department a BI solution in order to improve the collection and display of data
-2. Improve data visualization and analytics through Tableau softwares
+2. Improve data visualization and analytics through Tableau 
 
 
 
