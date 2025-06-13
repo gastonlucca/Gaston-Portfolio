@@ -146,7 +146,31 @@ Target Tables - Source tables - SQL JOIN STATEMENT
 
 > Note: WIP
 
-# [ Project 9: Artificial Intelligence Hackathon (Winner)  ](https://github.com/gastonlucca/Gaston-Portfolio)
+# [ Project 9: DDH Hackathon  ](https://github.com/gastonlucca/Gaston-Portfolio)
+
+Goal: Working on a managerial reporting solution that will improve the company's strategic plan follow-up and the KPIs tracking, through the improvement of the KPI definitions, process automation on data gathering, and data visualization.
+
+Software used: 
+- AWS S3 bucket for data Ingestion
+- AWS Redshift for DDBB
+- Tableau: For data visualization
+
+1) Business data analyst & technical approach- Top down
+
+![image](https://github.com/user-attachments/assets/eda1bd2b-7d7a-4c1d-a337-5a269b01a01f)
+
+2) Business data analyst & technical approach- From data to KPI (bottom up)
+![image](https://github.com/user-attachments/assets/4c038112-4592-4b76-b8a9-55454c3fd90b)
+
+3) Example of KPI mesurement: reduce the technical debt by 30 %
+![image](https://github.com/user-attachments/assets/297c21ed-7e54-4482-b249-322eb6e47f96)
+
+
+> Note: Due data security privacy i can not show the final dashboards
+> Note: WIP
+
+
+# [ Project 10: Artificial Intelligence Hackathon (Winner)  ](https://github.com/gastonlucca/Gaston-Portfolio)
 
 
 Problem statement: ​Digital Customer Support has identified duplications in Articles and Documents, which hinder customers from easily finding specific solutions to their issues or searches.
@@ -192,7 +216,7 @@ Scale up & Next steps
 
 > Note: WIP
 
-# [Project 10: Digital Data Analitics Sales Products](https://github.com/gastonlucca/Gaston-Portfolio)
+# [Project 11: Digital Data Analitics Sales Products](https://github.com/gastonlucca/Gaston-Portfolio)
 
 Product 1: Greenberry
 
