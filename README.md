@@ -235,14 +235,12 @@ Key Features​​​​​​​
 - Deep dive abilities: by geography, segment, services
 
 Taget audience: Sales manager, sales globals VP, and sales Operation team 
-
 Active Users: 1500
+Patform: AWS + tableau 
 
 Product 2: Platforming and Coverage
 
-What is Platforming & Coverage BI?
-
-Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
+What is Platforming & Coverage BI? : Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
 
 Platforming & Coverage BI is the new tool of reference to positively influence your Platforming & Coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
 
@@ -253,25 +251,26 @@ Optimize their commercial resource allocation
 
 Key Features
 
-PLATFORMING​
-
+PLATFORMING​: 
 View total accounts for my team/country in the 9-box view​
 Customize the data view based on the info YOU wish to know.​
 View performance by bFO Sales, Net orders, Digital Engagement etc…
-COVERAGE​
 
+COVERAGE​: 
 Am I covering my accounts as per their attractiveness​
 …as per my plan?​
 …as per their revenue or potential revenue?​
 Are there customers engaging with Schneider that I’m unaware of?​
-BENCHMARK​
+
+BENCHMARK​: 
 
 How am I performing on the official KPIs?​
 What is my country’s ranking?
 
-Target audience: 
-
+Target audience: Sale manger by region /country 
 Active Users: 500
+Patform: AWS + tableau 
+
 
 > Note: WIP
 
