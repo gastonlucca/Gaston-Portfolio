@@ -146,7 +146,7 @@ Target Tables - Source tables - SQL JOIN STATEMENT
 
 > Note: WIP
 
-# [ Project 9: DDH Hackathon  ](https://github.com/gastonlucca/Gaston-Portfolio)
+# [ Project 9: Business Intelligence Hackathon  ](https://github.com/gastonlucca/Gaston-Portfolio)
 
 Goal: Working on a managerial reporting solution that will improve the company's strategic plan follow-up and the KPIs tracking, through the improvement of the KPI definitions, process automation on data gathering, and data visualization.
 
