@@ -1,4 +1,4 @@
-BI & Data Analitics; Data Analytics Portfolio
+BI & Data Analytics Portfolio
 
 
 ## 👋 Hi, I'm Gaston Lucca
