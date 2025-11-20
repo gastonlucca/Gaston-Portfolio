@@ -1,31 +1,42 @@
 BI & Data Analytics Portfolio
 
+**Senior Data Product Owner · Business Intelligence & Analytics Solutions**  
+🧑‍💼 Freelance · Available for remote & onsite engagements  
 
-## 👋 Hi, I'm Gaston Lucca
-I'm a Business Intelligence and Data Analytics professional with experience in building data pipelines, dashboards, and actionable insights using tools like Tableau, Power BI, and QlikView.
+## 👋 Hi, I'm Gaston Lucca. I'm a Business Intelligence and Data Analytics professional specialising in designing, delivering, and scaling analytics and BI platforms. With over X years of experience, I help organisations turn data into actionable insights — from data pipelines to dashboards, from stakeholder strategy to delivery.
+
+## 🧰 Skills & Tech Stack  
+- **Product & Strategy**: Product roadmap, stakeholder management, agile/scrum, OKRs, data governance 
+- **Data & Analytics**: Data-warehouse modelling, ETL/ELT   
+- **BI & Visualisation**: Power BI, Tableau, Qlik  
+- **Programming & Tools**: SQL, Snowflake, Azure/AWS data services  
+- **Soft Skills**: Cross-functional leadership, client consultancy, translating business to data requirements  
+
+## ✅ Selected Projects  
+
 
 
 # [Project 1: DataBase & BI reporting: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio) 
-* BI REPORTING STRUCTURE: Create a system of BI reporting which allows a display of data and reporting system, to track the performance of the program.
+* BI REPORTING STRUCTURE: Create a system of BI reporting that allows a display of data and a reporting system to track the performance of the program.
 
 1. Definition of reporting tool 
 2. Definitions of KPIs
-3. Definition and elavoration of the dashboard, regular reporting, and ad-hoc reporting
+3. Definition and elaboration of the dashboard, regular reporting, and ad-hoc reporting
 
-* DATABASE STRUCTURE: Design and create a solid database which contain structural data, easy to retrieve which allows answer simples queries.
+* DATABASE STRUCTURE: Design and create a solid database that contains structural data, easy to retrieve, which allows answering simple queries.
 
-1. Data gathering porcess and normalization
-2. ETL procces 
-3. Database estructure: variables – dimensions, define transactional tables, schemas (star)- data types
-4. Data base Wharehouse – site – back up - testing
-5. Data Visualization on Qlick View and PowerPoint
+1. Data gathering process and normalization
+2. ETL process 
+3. Database structure: variables – dimensions, define transactional tables, schemas (star)- data types
+4. Database Warehouse – site – back up - testing
+5. Data Visualization on Qlik View and PowerPoint
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20MECON%20porject%202.PNG)
 
 # [Project 2:  Analysis of trends and metrics for La.Radio.live](https://github.com/gastonlucca/Gaston-Portfolio)
-For this project I have select and define a series of metrics, relevant to analyze the performance of the Facebook site for the company, [LaRadio.live](https://laradio.live/)
+For this project, I have selected and defined a series of metrics relevant to analyzing the performance of the Facebook site for the company, [LaRadio.live](https://laradio.live/)
 
-Gathering all this information I was able to summary the performance of the Facebook site, estimate by linear regression the future like level. Through this analysis I have generated actionable conclusions and extraction of actionable insights, in order to calibrate the marketing strategy of the company. 
+Gathering all this information, I was able to summarize the performance of the Facebook site, and estimate by linear regression the future like level. Through this analysis, I have generated actionable conclusions and extracted actionable insights in order to calibrate the marketing strategy of the company. 
 
 Broadcasting Performance:
 
@@ -34,8 +45,8 @@ Broadcasting Performance:
 # [Project 3.1 (Tableau): Support Function Cost Automation: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
 
-1. To improve collection, preparation and display of data to promote a change in financial analysis department.
-2. Automatization of process that it is been build from different sources (SAP ERP, ORACLE, manual settings, local files) 
+1. To improve the collection, preparation, and display of data to promote a change in the  financial analysis department.
+2. Automatization of the process that it is been built from different sources (SAP ERP, ORACLE, manual settings, local files) 
 
 * ESTRUCTURE: 
 
@@ -52,8 +63,8 @@ Broadcasting Performance:
 # [Project 3.2 (PowerBI): Support Function Cost Automation + Sales: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
 
-1. To improve collection, preparation and display of data to promote a change in financial analysis department.
-2. Automatization of process that it is been build from different sources (SAP ERP, ORACLE, manual settings, local files) 
+1. To improve the collection, preparation, and display of data to promote a change inthe  financial analysis department.
+2. Automatization of the process that it is been built from different sources (SAP ERP, ORACLE, manual settings, local files) 
 
 * ESTRUCTURE: 
 
@@ -74,7 +85,7 @@ Sales by Business Unit
 # [Project 4: Finances BI Report: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
 
-1. Provide to the finances department a BI solution in order to improve the collection and display of data
+1. Provide the finance department with a BI solution  to improve the collection and display of data
 2. Improve data visualization and analytics through Tableau 
 
 
@@ -82,22 +93,22 @@ Sales by Business Unit
 > Note: WIP
 
 # [Project 5: Deploying BI solution & Advanced analytics with IDS - AWS + Tableau](https://github.com/gastonlucca/Gaston-Portfolio) 
-* BI REPORTING ESTRUCTURE: Create a system of BI & Advance analitic reporting which allow to cover Business use case (bussines analitics demands) 
+* BI REPORTING ESTRUCTURE: Create a system of BI & advanced analytical reporting that allows covering Business use cases (business analytics demands) 
 
-1. Definition of Use case (Agile / kanva methodology) 
+1. Definition of Use case (Agile / Kanban methodology) 
 2. Business/Data Analysis + prioritization: How to solve the use case and how we prioritize the backlog 
 3. Data Architecture: What is the data architecture I need to resolve this problem
-4. Definitions of KPIs, business rules, data quality rules, Critical data elements 
-5. Deploy data governance: to guarantee that the technical solution is in compliance with the company data strategy (Dat quality, tools, data security) 
+4. Definitions of KPIs, business rules, data quality rules, and Critical data elements 
+5. Deploy data governance: to guarantee that the technical solution is in compliance with the company data strategy (Data quality, tools, data security) 
 6. Development part: Coding (Scrum master methodology) + UAT + delivering the model 
 7. Definition of the dashboard, regular reporting, and ad-hoc reporting
 
-* DATABASE STRUCTURE: Design and create a solid database that contains structural data, easy to retrieve which allows answer simple queries + live data connection
+* DATABASE STRUCTURE: Design and create a solid database that contains structural data, easy to retrieve, which allows answering simple queries + live data connection
 
 1. Data gathering process and normalization
 2. ETL process + data ingestion 
 3. Database structure: variables – dimensions, define transactional tables, schemas (star)- data types
-4. Database Wharehouse – site – back up - testing  
+4. Database Warehouse – site – back up - testing  
 
 * Process automation  by DDBB deployment: Data flow
 
@@ -109,12 +120,12 @@ Sales by Business Unit
 
 > Note: WIP
 
-# [Project 6: Deploying Data Governance base on DCAM approach](https://github.com/gastonlucca/Gaston-Portfolio) 
+# [Project 6: Deploying Data Governance based on DCAM approach](https://github.com/gastonlucca/Gaston-Portfolio) 
 
-* What is the right strategy to develop a solid data analytic environment in an organization
+* What is the right strategy to develop a solid data analytics environment in an organization
 * Customizing DCAM based on the particularities of your organization
 * Active data security: Virtuous data quality circle
-* Active data security: Data attack surface - Data breach map - Deploy of the control point of access 
+* Active data security: Data attack surface - Data breach map - Deployment of the control point of access 
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/dcam_components_graphic_feb_.png)
 
@@ -194,21 +205,21 @@ Visualization: Developed on Tableau (Dummy Data)
 
 ![image](https://github.com/user-attachments/assets/bb41ca88-7db3-4043-b097-958f6e34d11f)
 
-Benefits the model  model :
-Gives detailed matrix after one iteration of SS calculation
+Benefits of the  model :
+Gives a detailed matrix after one iteration of SS calculation
 
-Using LLM we save the Context impact.
+Using LLM, we save the Context impact.
 
-Flexible Threshold defined by user
+Flexible Threshold defined by the user
 
 Give the pool of similar FAQs biased SS and on FAQ related. 
 
-Extract the FAQ if they are connected and allow fast access to online check
+Extract the FAQ if they are connected and allow fast access to the online check
 
 Risk Avoided:
-Word-to-Word comparison lose the Context.
+Word-to-word comparison loses the Context.
 
-All Experts to use it as interface to make a final validation.
+All Experts to use it as an interface to make a final validation.
 
 Scale up & Next steps
 ![image](https://github.com/user-attachments/assets/41061bb2-ff5e-40f3-9ba6-428e99abaa88)
@@ -216,31 +227,31 @@ Scale up & Next steps
 
 > Note: WIP
 
-# [Project 11: Digital Data Analitics Sales Products](https://github.com/gastonlucca/Gaston-Portfolio)
+# [Project 11: Digital Data Analytics Sales Products](https://github.com/gastonlucca/Gaston-Portfolio)
 
-Product 1: Greenberry
+##Product 1: Greenberry
 
-What is ? 
-Greenberry+ is a Business Intelligence Tableau Dashboard that showcases Sales-related Data collected from bFO into advanced analytics. 
-It empowers the Sales population to effortlessly convert Sales data into valuable insights focusing on the Opportunity Pipeline analysis: a powerful support to adjust their commercial strategy, ensuring flexible responses to market dynamics.
+What is? 
+Greenberry+ is a Business Intelligence Tableau Dashboard that showcases Sales-related Data collected from Salesforce CRM  into advanced analytics. 
+Objective: to empower the Sales teams to effortlessly convert Sales data into valuable insights, focusing on the Opportunity Pipeline analysis: a powerful support to adjust their commercial strategy, ensuring flexible responses to market dynamics.
 
 Key Features​​​​​​​
 - Monitor segments and Targeted Accounts performance.
 - Data-driven business insights & actionable intelligence
-- Data consistency across countries, BU and segments
-- DMonthly/Quarterly Business Reviews preparation
+- Data consistency across countries, Business Units, and segments
+- Monthly/Quarterly Business Reviews preparation
 - Targeted view: Performance, pipeline & forecast analysis
 - Secure Power & Energy Management QBR analysis
 - Strategic customer & Segment performance, with AVEVA
 - Deep dive abilities: by geography, segment, services
 
-Taget audience: Sales manager, sales globals VP, and sales Operation team 
-Active Users: 1500
-Patform: AWS + tableau 
+Target audience: Sales manager, Sales Global VP, and Sales Operations team 
+Active Users: 3000
+Platform: Saleforce + AWS + Tableau Web 
 
-Product 2: Platforming and Coverage
+##Product 2: Platforming and Coverage
 
-What is Platforming & Coverage BI? : Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
+What is Platforming & Coverage BI? Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
 
 Platforming & Coverage BI is the new tool of reference to positively influence your Platforming & Coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
 
@@ -254,7 +265,7 @@ Key Features
 PLATFORMING​: 
 View total accounts for my team/country in the 9-box view​
 Customize the data view based on the info YOU wish to know.​
-View performance by bFO Sales, Net orders, Digital Engagement etc…
+View performance by bFO Sales, Net orders, Digital Engagement, etc…
 
 COVERAGE​: 
 Am I covering my accounts as per their attractiveness​
@@ -267,9 +278,9 @@ BENCHMARK​:
 How am I performing on the official KPIs?​
 What is my country’s ranking?
 
-Target audience: Sale manger by region /country 
+Target audience: Sales manager by region /country 
 Active Users: 500
-Patform: AWS + tableau 
+Platform: Saleforce + AWS + Tableau Web 
 
 
 > Note: WIP
