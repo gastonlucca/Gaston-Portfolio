@@ -173,11 +173,11 @@ Software used:
 2) Business data analyst & technical approach- From data to KPI (bottom up)
 ![image](https://github.com/user-attachments/assets/4c038112-4592-4b76-b8a9-55454c3fd90b)
 
-3) Example of KPI mesurement: reduce the technical debt by 30 %
+3) Example of KPI measurement: reduce the technical debt by 30 %
 ![image](https://github.com/user-attachments/assets/297c21ed-7e54-4482-b249-322eb6e47f96)
 
 
-> Note: Due data security privacy i can not show the final dashboards
+> Note: Due to data security and privacy, I can not show the final dashboards
 > Note: WIP
 
 
@@ -197,7 +197,7 @@ Librari: Faiss library
 
 Data source analysis: Analysis of the Data Source reveal that Data source is unstructured and risks of Word-to-Word comparisons because of the dependency of the Content and Technical Specific.
 
-Solution: Steps of the solution includes the following actions: Data Preparation, Data Validation, LMM, Reporting and Visualisation. (Dummy Data)
+Solution: Steps of the solution includes the following actions: Data Preparation, Data Validation, LMM, Reporting, and Visualisation. (Dummy Data)
 
 ![image](https://github.com/user-attachments/assets/a97a6c88-33af-40f7-80a9-52d12d23f847)
 
@@ -229,7 +229,7 @@ Scale up & Next steps
 
 # [Project 11: Digital Data Analytics Sales Products](https://github.com/gastonlucca/Gaston-Portfolio)
 
-##Product 1: Greenberry
+## Product 1: Greenberry
 
 What is? 
 Greenberry+ is a Business Intelligence Tableau Dashboard that showcases Sales-related Data collected from Salesforce CRM  into advanced analytics. 
@@ -249,11 +249,11 @@ Target audience: Sales manager, Sales Global VP, and Sales Operations team
 Active Users: 3000
 Platform: Saleforce + AWS + Tableau Web 
 
-##Product 2: Platforming and Coverage
+## Product 2: Platforming and Coverage
 
 What is Platforming & Coverage BI? Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
 
-Platforming & Coverage BI is the new tool of reference to positively influence your Platforming & Coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
+Platforming & Coverage BI is the new tool of reference to positively influence your platforming and coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
 
 Understand their gaps in platforming ​& coverage
 Identify potential ways for improvement
@@ -275,7 +275,7 @@ Are there customers engaging with Schneider that I’m unaware of?​
 
 BENCHMARK​: 
 
-How am I performing on the official KPIs?​
+How am I performing in relation to the official KPIs?​
 What is my country’s ranking?
 
 Target audience: Sales manager by region /country 
