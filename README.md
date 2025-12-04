@@ -46,7 +46,7 @@ Broadcasting Performance:
 * OBJECTIVES: 
 
 1. To improve the collection, preparation, and display of data to promote a change in the  financial analysis department.
-2. Automatization of the process that it is been built from different sources (SAP ERP, ORACLE, manual settings, local files) 
+2. Automatization of the process that is built from different sources (SAP ERP, ORACLE, manual settings, local files) 
 
 * ESTRUCTURE: 
 
