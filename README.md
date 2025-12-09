@@ -3,7 +3,7 @@ BI & Data Analytics Portfolio
 **Data Product Manager · Business Intelligence & Analytics Solutions**  
 🧑‍💼 Freelance · Available for remote & onsite engagements  
 
-## 👋 Hi, I'm Gaston Lucca. I'm a Business Intelligence and Data Analytics professional specialising in designing, delivering, and scaling analytics and BI platforms. With over X years of experience, I help organisations turn data into actionable insights — from data pipelines to dashboards, from stakeholder strategy to delivery.
+## 👋 Hi, I'm Gaston Lucca. I'm a Product Manager with over 10 years of experience in Business Intelligence and Data Analytics. I specialize in designing, delivering, and scaling analytics platforms that transform data into actionable insights—from building pipelines and dashboards to shaping stakeholder strategy and driving end-to-end delivery.
 
 ## 🧰 Skills & Tech Stack  
 - **Product & Strategy**: Product roadmap, stakeholder management, agile/scrum, OKRs, data governance 
