@@ -229,11 +229,18 @@ Scale up & Next steps
 
 # [Project 11: Digital Data Analytics Sales Products](https://github.com/gastonlucca/Gaston-Portfolio)
 
-## Product 1: Greenberry
+## Product 1: Greenberry 
 
 What is? 
-Greenberry+ is a Business Intelligence Tableau Dashboard that showcases Sales-related Data collected from Salesforce CRM  into advanced analytics. 
+Greenberry+ is a Business Intelligence solution developed in a Tableau Dashboard that showcases Sales-related Data collected from Salesforce CRM  into advanced analytics. 
+
 Objective: to empower the Sales teams to effortlessly convert Sales data into valuable insights, focusing on the Opportunity Pipeline analysis: a powerful support to adjust their commercial strategy, ensuring flexible responses to market dynamics.
+
+Solution:
+
+**Key KPIs: Sales volume, business pipeline, won/lost/ cancelled opportunities
+**Visuals: Regional/segment filters, waterfall analysis, drill-through by account and opportunity.
+**Integration: CRM (Opportunities) + client data, with governance and data quality standards.
 
 Key Features​​​​​​​
 - Monitor segments and Targeted Accounts performance.
@@ -245,9 +252,13 @@ Key Features​​​​​​​
 - Strategic customer & Segment performance, with AVEVA
 - Deep dive abilities: by geography, segment, services
 
-Target audience: Sales manager, Sales Global VP, and Sales Operations team 
+Target audience and Stakeholders: Sales manager, Sales Global VP, Sales Operations team,  Sales, Marketing, Finance
 Active Users: 3000
 Platform: Saleforce + AWS + Tableau Web 
+
+<img width="1827" height="916" alt="image" src="https://github.com/user-attachments/assets/c26614f5-b42b-439c-b8cd-b63a11b397af" />
+<img width="1567" height="778" alt="image" src="https://github.com/user-attachments/assets/5e7799e7-2617-4da9-ae50-f30a69de95ea" />
+
 
 ## Product 2: Platforming and Coverage
 
@@ -278,10 +289,18 @@ BENCHMARK​:
 How am I performing in relation to the official KPIs?​
 What is my country’s ranking?
 
+Solution:
+
+**Key KPIs: active coverage 
+**Visuals: Regional/segment filters, drill-through by account 
+**Integration: CRM + ERP + clientes
+
 Target audience: Sales manager by region /country 
 Active Users: 500
 Platform: Saleforce + AWS + Tableau Web 
 
+<img width="1742" height="843" alt="image" src="https://github.com/user-attachments/assets/ad437a76-2e0b-4af1-8479-9399a0a72c5c" />
+<img width="1742" height="843" alt="image" src="https://github.com/user-attachments/assets/f2618fe3-a8ea-44ca-9936-763c2f5cf291" />
 
-> Note: WIP
+
 
