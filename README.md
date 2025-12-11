@@ -231,16 +231,16 @@ Scale up & Next steps
 
 ## Product 1: Greenberry 
 
-What is? 
+++What is**
 Greenberry+ is a Business Intelligence solution developed in a Tableau Dashboard that showcases Sales-related Data collected from Salesforce CRM  into advanced analytics. 
 
 Objective: to empower the Sales teams to effortlessly convert Sales data into valuable insights, focusing on the Opportunity Pipeline analysis: a powerful support to adjust their commercial strategy, ensuring flexible responses to market dynamics.
 
 Solution:
 
-**Key KPIs: Sales volume, business pipeline, won/lost/ cancelled opportunities
-**Visuals: Regional/segment filters, waterfall analysis, drill-through by account and opportunity.
-**Integration: CRM (Opportunities) + client data, with governance and data quality standards.
+**Key KPIs**: Sales volume, business pipeline, won/lost/ cancelled opportunities
+**Visuals**: Regional/segment filters, waterfall analysis, drill-through by account and opportunity.
+**Integration**: CRM (Opportunities) + client data, with governance and data quality standards.
 
 Key Features​​​​​​​
 - Monitor segments and Targeted Accounts performance.
@@ -262,21 +262,19 @@ Platform: Saleforce + AWS + Tableau Web
 
 ## Product 2: Platforming and Coverage
 
-What is Platforming & Coverage BI? Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
+**What is Platforming & Coverage BI?** Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
 
 Platforming & Coverage BI is the new tool of reference to positively influence your platforming and coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
 
-Understand their gaps in platforming ​& coverage
-Identify potential ways for improvement
-Optimize their commercial resource allocation
-
-
 Key Features
+- Understand their gaps in platforming ​& coverage
+- Identify potential ways for improvement
+- Optimize their commercial resource allocation
 
 PLATFORMING​: 
-View total accounts for my team/country in the 9-box view​
-Customize the data view based on the info YOU wish to know.​
-View performance by bFO Sales, Net orders, Digital Engagement, etc…
+- View total accounts for my team/country in the 9-box view​
+- Customize the data view based on the info YOU wish to know.​
+ -View performance by bFO Sales, Net orders, Digital Engagement, etc…
 
 COVERAGE​: 
 Am I covering my accounts as per their attractiveness​
@@ -291,9 +289,9 @@ What is my country’s ranking?
 
 Solution:
 
-**Key KPIs: active coverage 
-**Visuals: Regional/segment filters, drill-through by account 
-**Integration: CRM + ERP + clientes
+**Key KPIs**: active coverage 
+**Visuals**: Regional/segment filters, drill-through by account 
+**Integration**: CRM + ERP + clientes
 
 Target audience: Sales manager by region /country 
 Active Users: 500
