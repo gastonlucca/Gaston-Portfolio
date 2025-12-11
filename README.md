@@ -136,8 +136,8 @@ Sales by Business Unit
 1. Data research to create a quotation model based on SAP 
 2. Data ingestion and analysis 
 3. JOIN STATEMENT identification on SQL code
-4. Data architecture to be programming on a ETL software (Power Center/ Informatica Cloud /SnapLogic)
-5. Designing the data schema nad architecture 
+4. Data architecture to be programmed on an ETL software (Power Center/ Informatica Cloud /SnapLogic)
+5. Designing the data schema and architecture 
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Quotation%20model%20on%20SAP%20ERP.PNG)
 
@@ -147,9 +147,9 @@ Target Tables - Source tables - SQL JOIN STATEMENT
 
 # [Project 8: Machine Learning model- recommendation system for the sales team](https://github.com/gastonlucca/Gaston-Portfolio)
 
-1. Scoping and flameworking the problem statement: use case elaboration 
-2. Data Reserach and exploration: exploring the data available on the database level and data sources
-3. IT architecture for scalable machine learning models: what is the right IT architecture to scale models?
+1. Scoping and frameworking the problem statement: use case elaboration 
+2. Data Research and exploration: exploring the data available on the database level and data sources
+3. IT architecture for scalable machine learning models: What is the right IT architecture to scale models
 
 ![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%201.PNG)
 
@@ -187,7 +187,7 @@ Software used:
 Problem statement: ​Digital Customer Support has identified duplications in Articles and Documents, which hinder customers from easily finding specific solutions to their issues or searches.
 
 Goal:
-Our objective is to develop a sustainable solution aligned with Schneider data standards that compares Articles, Documents, and Links, providing accurate similarity scores based on title and responses comparisons.Additionally, use case-oriented visualizations will highlight potential duplicates, assisting agents in the analysis and optimization of the content.
+Our objective is to develop a sustainable solution aligned with Schneider data standards that compares Articles, Documents, and Links, providing accurate similarity scores based on title and response comparisons. Additionally, use case-oriented visualizations will highlight potential duplicates, assisting agents in the analysis and optimization of the content.
 
 SaasS Plataform: Dataiku 
 
