@@ -6,8 +6,8 @@ BI & Data Analytics Portfolio
 ## 👋 Hi, I'm Gaston Lucca. I'm a Product Manager with over 10 years of experience in Business Intelligence and Data Analytics. I specialize in designing, delivering, and scaling analytics platforms that transform data into actionable insights—from building pipelines and dashboards to shaping stakeholder strategy and driving end-to-end delivery.
 
 ## 🧰 Skills & Tech Stack  
-- **Product & Strategy**: Product roadmap, stakeholder management, agile/scrum, OKRs, data governance 
-- **Data & Analytics**: Data-warehouse modelling, ETL/ELT   
+- **Product & Strategy**: Product roadmap, stakeholder management, Business Analisys, agile/scrum, data governance 
+- **Data & Analytics**: Data warehouse, data modelling, ETL/ELT   
 - **BI & Visualisation**: Power BI, Tableau, Qlik  
 - **Programming & Tools**: SQL, Snowflake, Azure/AWS data services  
 - **Soft Skills**: Cross-functional leadership, client consultancy, translating business to data requirements  
@@ -31,16 +31,16 @@ BI & Data Analytics Portfolio
 4. Database Warehouse – site – back up - testing
 5. Data Visualization on Qlik View and PowerPoint
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20MECON%20porject%202.PNG)
+<img width="876" height="477" alt="image" src="https://github.com/user-attachments/assets/f4516aa1-ea76-4265-a52b-0bbc088e51b5" />
 
 # [Project 2:  Analysis of trends and metrics for La.Radio.live](https://github.com/gastonlucca/Gaston-Portfolio)
 For this project, I have selected and defined a series of metrics relevant to analyzing the performance of the Facebook site for the company, [LaRadio.live](https://laradio.live/)
 
-Gathering all this information, I was able to summarize the performance of the Facebook site, and estimate by linear regression the future like level. Through this analysis, I have generated actionable conclusions and extracted actionable insights in order to calibrate the marketing strategy of the company. 
+Gathering all this information, I was able to summarize the performance of the Facebook site and estimate, using linear regression, the future like level. Through this analysis, I have generated actionable conclusions and extracted key insights to calibrate the company's marketing strategy. 
 
 Broadcasting Performance:
 
-![Broadcasting Performance](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/La%20Radio.%20Correlation.PNG)
+<img width="583" height="197" alt="image" src="https://github.com/user-attachments/assets/479408ec-497f-49fb-9d40-b0122da5599f" />
 
 # [Project 3.1 (Tableau): Support Function Cost Automation: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
