@@ -6,7 +6,7 @@ BI & Data Analytics Portfolio
 ## 👋 Hi, I'm Gaston Lucca. I'm a Product Manager with over 10 years of experience in Business Intelligence and Data Analytics. I specialize in designing, delivering, and scaling analytics platforms that transform data into actionable insights—from building pipelines and dashboards to shaping stakeholder strategy and driving end-to-end delivery.
 
 ## 🧰 Skills & Tech Stack  
-- **Product & Strategy**: Product roadmap, stakeholder management, Business Analisys, agile/scrum, data governance 
+- **Product & Strategy**: Product roadmap, stakeholder management, Business Analysis, agile/scrum, data governance 
 - **Data & Analytics**: Data warehouse, data modelling, ETL/ELT   
 - **BI & Visualisation**: Power BI, Tableau, Qlik  
 - **Programming & Tools**: SQL, Snowflake, Azure/AWS data services  
@@ -64,7 +64,7 @@ Broadcasting Performance:
 * OBJECTIVES: 
 
 1. To improve the collection, preparation, and display of data to promote a change inthe  financial analysis department.
-2. Automatization of the process that it is been built from different sources (SAP ERP, ORACLE, manual settings, local files) 
+2. Automatization of the process that is built from different sources (SAP ERP, ORACLE, manual settings, local files) 
 
 * ESTRUCTURE: 
 
@@ -99,7 +99,7 @@ Sales by Business Unit
 2. Business/Data Analysis + prioritization: How to solve the use case and how we prioritize the backlog 
 3. Data Architecture: What is the data architecture I need to resolve this problem
 4. Definitions of KPIs, business rules, data quality rules, and Critical data elements 
-5. Deploy data governance: to guarantee that the technical solution is in compliance with the company data strategy (Data quality, tools, data security) 
+5. Deploy data governance: to guarantee that the technical solution complies with the company data strategy (Data quality, tools, data security) 
 6. Development part: Coding (Scrum master methodology) + UAT + delivering the model 
 7. Definition of the dashboard, regular reporting, and ad-hoc reporting
 
