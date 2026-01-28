@@ -151,9 +151,10 @@ Target Tables - Source tables - SQL JOIN STATEMENT
 2. Data Research and exploration: exploring the data available on the database level and data sources
 3. IT architecture for scalable machine learning models: What is the right IT architecture to scale models
 
-![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%201.PNG)
+<img width="1153" height="443" alt="image" src="https://github.com/user-attachments/assets/95ba917a-e144-4c31-b0e0-5505103ff333" />
 
-![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%202.PNG)
+<img width="1078" height="482" alt="image" src="https://github.com/user-attachments/assets/bfdbfdec-e7e1-438b-b266-98a21930c9bb" />
+
 
 > Note: WIP
 
@@ -195,9 +196,9 @@ SaasS Plataform: Dataiku
 
 Librari: Faiss library
 
-Data source analysis: Analysis of the Data Source reveal that Data source is unstructured and risks of Word-to-Word comparisons because of the dependency of the Content and Technical Specific.
+Data source analysis: Analysis of the Data Source reveals that the Data source is unstructured and risks of Word-to-Word comparisons because of the dependency of the Content and Technical Specific.
 
-Solution: Steps of the solution includes the following actions: Data Preparation, Data Validation, LMM, Reporting, and Visualisation. (Dummy Data)
+Solution: Steps of the solution include the following actions: Data Preparation, Data Validation, LMM, Reporting, and Visualisation. (Dummy Data)
 
 ![image](https://github.com/user-attachments/assets/a97a6c88-33af-40f7-80a9-52d12d23f847)
 
@@ -264,7 +265,7 @@ Home page example (dummy data used for data protection purposes)
 
 **What is Platforming & Coverage BI?** Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
 
-Platforming & Coverage BI is the new tool of reference to positively influence your platforming and coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
+Platforming & Coverage BI is the BI tool of reference to positively influence your platforming and coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
 
 Key Features
 - Understand their gaps in platforming ​& coverage
