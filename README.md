@@ -54,6 +54,7 @@ Broadcasting Performance:
 
 
 https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC%20Data%20Architecture.PNG
+SFC Data Architecture.PNG
 
 * DASHBOARDS:
 
