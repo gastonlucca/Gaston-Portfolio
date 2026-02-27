@@ -17,11 +17,13 @@ BI & Data Analytics Portfolio
 
 
 # [Project 1: DataBase & BI reporting: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio) 
-* BI REPORTING STRUCTURE: Create a system of BI reporting that allows a display of data and a reporting system to track the performance of the program.
+* BI REPORTING STRUCTURE: Create a system of BI reporting that allows a display of data and a reporting system to track the performance of the pricing and supply program.
 
 1. Definition of reporting tool 
 2. Definitions of KPIs
 3. Definition and elaboration of the dashboard, regular reporting, and ad-hoc reporting
+
+<img width="897" height="399" alt="image" src="https://github.com/user-attachments/assets/7823dc1d-c55c-4c12-9f27-8234bff734c6" />
 
 * DATABASE STRUCTURE: Design and create a solid database that contains structural data, easy to retrieve, which allows answering simple queries.
 
