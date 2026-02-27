@@ -52,16 +52,14 @@ Broadcasting Performance:
 
 * ESTRUCTURE: 
 
-
-https://github.com/gastonlucca/Gaston-Portfolio/blob/main/SFC%20Data%20Architecture.PNG
-SFC Data Architecture.PNG
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/SFC%20Data%20Architecture.PNG)
 
 * DASHBOARDS:
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/SFC.%20Data%20Model%202-%20DASHBOARDS%201.png)
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%202.png)
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/SFC.%20Data%20Model%202-%20DASHBOARDS%202.png)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
 
 # [Project 3.2 (PowerBI): Support Function Cost Automation + Sales: Objetives, Estructure & Dashboards](https://github.com/gastonlucca/Gaston-Portfolio)
 * OBJECTIVES: 
@@ -72,17 +70,17 @@ SFC Data Architecture.PNG
 * ESTRUCTURE: 
 
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC%20Data%20Architecture%202.PNG)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/SFC%20Data%20Architecture%202.PNG)
 
 * DASHBOARDS:
 
 Mobile expenses by Business Unit.
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Mobile%20Expense.PNG)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/Mobile%20Expense.PNG)
 
 Sales by Business Unit
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Sales.PNG)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/Sales.PNG)
 
 
 # [Project 4: Finances BI Report: Project Overview](https://github.com/gastonlucca/Gaston-Portfolio)
@@ -115,11 +113,11 @@ Sales by Business Unit
 
 * Process automation  by DDBB deployment: Data flow
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/IDS%20Data%20Flow.PNG)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/IDS%20Data%20Flow.PNG)
 
 * Data Architecture + data ingestion for data model customization 
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/BI%20Architecture.PNG)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/BI%20Architecture.PNG)
 
 > Note: WIP
 
@@ -130,7 +128,7 @@ Sales by Business Unit
 * Active data security: Virtuous data quality circle
 * Active data security: Data attack surface - Data breach map - Deployment of the control point of access 
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/dcam_components_graphic_feb_.png)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/dcam_components_graphic_feb_.png)
 
 > Note: WIP
 
@@ -142,7 +140,7 @@ Sales by Business Unit
 4. Data architecture to be programmed on an ETL software (Power Center/ Informatica Cloud /SnapLogic)
 5. Designing the data schema and architecture 
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Quotation%20model%20on%20SAP%20ERP.PNG)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/Quotation%20model%20on%20SAP%20ERP.PNG)
 
 Target Tables - Source tables - SQL JOIN STATEMENT
 
@@ -191,7 +189,7 @@ Software used:
 Problem statement: ​Digital Customer Support has identified duplications in Articles and Documents, which hinder customers from easily finding specific solutions to their issues or searches.
 
 Goal:
-Our objective is to develop a sustainable solution aligned with Schneider data standards that compares Articles, Documents, and Links, providing accurate similarity scores based on title and response comparisons. Additionally, use case-oriented visualizations will highlight potential duplicates, assisting agents in the analysis and optimization of the content.
+Our objective is to develop a sustainable solution aligned with Schneider data standards that compares Articles, Documents, and Links, providing accurate similarity scores based on title and response comparisons. Additionally, use-case-oriented visualizations will highlight potential duplicates, assisting agents in analyzing and optimizing the content.
 
 SaasS Plataform: Dataiku 
 
@@ -223,7 +221,7 @@ Extract the FAQ if they are connected and allow fast access to the online check
 Risk Avoided:
 Word-to-word comparison loses the Context.
 
-All Experts to use it as an interface to make a final validation.
+All Experts to use it as an interface for final validation.
 
 Scale up & Next steps
 ![image](https://github.com/user-attachments/assets/41061bb2-ff5e-40f3-9ba6-428e99abaa88)
