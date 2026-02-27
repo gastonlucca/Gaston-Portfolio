@@ -53,12 +53,12 @@ Broadcasting Performance:
 * ESTRUCTURE: 
 
 
-https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC%20Data%20Architecture.PNG
+https://github.com/gastonlucca/Gaston-Portfolio/blob/main/SFC%20Data%20Architecture.PNG
 SFC Data Architecture.PNG
 
 * DASHBOARDS:
 
-![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%201.png)
+![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/SFC.%20Data%20Model%202-%20DASHBOARDS%201.png)
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%202.png)
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/SFC.%20Data%20Model%202-%20DASHBOARDS%203.png)
