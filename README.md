@@ -121,12 +121,13 @@ Sales by Business Unit
 
 > Note: WIP
 
-# [Project 6: Deploying Data Governance based on DCAM approach](https://github.com/gastonlucca/Gaston-Portfolio) 
+# [Project 6: Deploying Data Governance based on DCAM framework](https://github.com/gastonlucca/Gaston-Portfolio) 
 
-* What is the right strategy to develop a solid data analytics environment in an organization
-* Customizing DCAM based on the particularities of your organization
-* Active data security: Virtuous data quality circle
-* Active data security: Data attack surface - Data breach map - Deployment of the control point of access 
+* Deploying a strategy for solid data analytics environment in an organization
+* Customizing DCAM based on the particularities of the organization and data ofices and data domains
+* Active data quality: implemneting the data quality circle
+* Active data security: Data attack surface - Data breach map - Deployment of the control point of access
+* Contribute to roadmap planning and value realization for the Data Maturity Program and the Data Quality platform
 
 ![](https://github.com/gastonlucca/Gaston-Portfolio/blob/main/dcam_components_graphic_feb_.png)
 
