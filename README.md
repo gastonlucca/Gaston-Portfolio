@@ -265,9 +265,8 @@ Home page example (dummy data used for data protection purposes)
 
 ## Product 2: Platforming and Coverage
 
-**What is Platforming & Coverage BI?** Platforming and Coverage are vital components supporting the new E2E Growth Path strategy to improve our Digital Customer Journey.​
 
-Platforming & Coverage BI is the BI tool of reference to positively influence your platforming and coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to:​​
+Platforming & Coverage BI is the BI tool supporting the new E2E Growth Path strategy to improve our Digital Customer Journey. This tool is the reference to positively influence sales account mnager platforming and coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to undertan better the interaction between client - company and p to imporve the coverage of the diferrents accounts. ​​
 
 Key Features
 - Understand their gaps in platforming ​& coverage
@@ -304,5 +303,17 @@ Home page example (dummy data used for data protection purposes)
 
 <img width="1742" height="843" alt="image" src="https://github.com/user-attachments/assets/f2618fe3-a8ea-44ca-9936-763c2f5cf291" />
 
+## Architecture and Data Flow
+
+```mermaid
+flowchart LR
+    A[Sources: CRM, ERP, Product Catalog, RELTIO (MDM), Other master data] --> B[Ingestion: ETL]
+    B --> C[Sales Data Mart: landing tables, stagging tables , denormaliced tables for Tableau consumption]
+    C --> D[Dashboards: Greenberry]
+    C --> E[Dashboards: Platforming & Coverage]
+    
+    F[KPI Glossary & Confluence] --> C
+    end
+    C --> G[Adoption & usage metrics]
 
 
