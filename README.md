@@ -244,24 +244,25 @@ Solution:
 **Visuals**: Regional/segment filters, waterfall analysis, drill-through by account and opportunity.
 **Integration**: CRM (Opportunities) + client data, with governance and data quality standards.
 
-Key Features​​​​​​​
-- Monitor segments and Targeted Accounts performance.
-- Pipeline evolution by month + waterfall explanation YoY, MoM + Pipeline Forecast 1- 2 yeras
-- Data-driven business insights & actionable intelligence
-- Data consistency across countries, Business Units, and segments
-- - Targeted view: Performance, pipeline & forecast analysis
-- Secure Power & Energy Management QBR analysis
-- Strategic customer & Segment performance
-- Deep dive abilities: by geography, segment, services
-- Quarterly Business Reviews preparation >>> Last Capability Launched
-- Desing firm feature (under development)
-
 - Target audience: Sales manager by region /country, Account Manger, Strategic accounts manager, Finances
 - Active Users: 3000
 - Adoption 85% over the target
 - Platform: Saleforce (CRM) + AWS + Tableau Web Analitic/Tableau Site
 - Data Source: Saleforce (CRM) (Objects: Opportunities) + CHITU (CRM China) + RELTIO MDM + Other master data (sharepoint)
 - Architecture: five flow of data (ipelines) allocated in Sales Data Mart + shadow squema + DP in ADL (golden layer) + DP in UDL (silver layer)
+  
+Key Features​​​​​​​
+- Monitor segments and Targeted Accounts performance.
+- Pipeline evolution by month + waterfall explanation YoY, MoM + Pipeline Forecast 1- 2 yeras
+- Data-driven business insights & actionable intelligence
+- Data consistency across countries, Business Units, and segments
+- Targeted view: Performance, pipeline & forecast analysis
+- Secure Power & Energy Management QBR analysis
+- Strategic customer & Segment performance
+- Deep dive abilities: by geography, segment, services
+- Quarterly Business Reviews preparation >>> Last Capability Launched
+- Desing firm feature (under development)
+
 
 Home page example (dummy data used for data protection purposes)
 
