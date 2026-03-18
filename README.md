@@ -307,14 +307,15 @@ Home page example (dummy data used for data protection purposes)
 
 ```mermaid
 flowchart LR
-    A[Sources: CRM, ERP, Reltio (MDM) Product Catalog] --> B[Ingestion: ETL]
-    B --> C[Sales Data Mart]
+    A[Sources: CRM, ERP, Product Catalog] --> B[Ingestion: ETL/ELT]
+    B --> C[Semantic Model: Sales, Customers, Products]
     C --> D[Dashboards: Greenberry]
     C --> E[Dashboards: Platforming & Coverage]
     subgraph Governance
     F[KPI Glossary & DCAM] --> C
     end
     C --> G[Adoption & usage metrics]
+
 
 
 ............................................................................................................
