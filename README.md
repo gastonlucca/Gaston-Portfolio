@@ -305,6 +305,7 @@ Home page example (dummy data used for data protection purposes)
 
 ## Architecture and Data Flow
 
+```mermaid
 flowchart LR
     A[Sources: CRM, ERP, Reltio (MDM) Product Catalog] --> B[Ingestion: ETL]
     B --> C[Sales Data Mart]
