@@ -305,15 +305,20 @@ Home page example (dummy data used for data protection purposes)
 
 ## Architecture and Data Flow
 
-```mermaid
 flowchart LR
-    A[Sources: CRM, ERP, Product Catalog, RELTIO (MDM), Other master data] --> B[Ingestion: ETL]
-    B --> C[Sales Data Mart: landing tables, stagging tables , denormaliced tables for Tableau consumption]
+    A[Sources: CRM, ERP, Reltio (MDM) Product Catalog] --> B[Ingestion: ETL]
+    B --> C[Sales Data Mart]
     C --> D[Dashboards: Greenberry]
     C --> E[Dashboards: Platforming & Coverage]
-    
-    F[KPI Glossary & Confluence] --> C
+    subgraph Governance
+    F[KPI Glossary & DCAM] --> C
     end
     C --> G[Adoption & usage metrics]
+
+
+............................................................................................................
+
+
+
 
 
