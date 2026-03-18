@@ -246,17 +246,22 @@ Solution:
 
 Key Features​​​​​​​
 - Monitor segments and Targeted Accounts performance.
+- Pipeline evolution by month + waterfall explanation YoY, MoM + Pipeline Forecast 1- 2 yeras
 - Data-driven business insights & actionable intelligence
 - Data consistency across countries, Business Units, and segments
-- Monthly/Quarterly Business Reviews preparation
-- Targeted view: Performance, pipeline & forecast analysis
+- - Targeted view: Performance, pipeline & forecast analysis
 - Secure Power & Energy Management QBR analysis
-- Strategic customer & Segment performance, with AVEVA
+- Strategic customer & Segment performance
 - Deep dive abilities: by geography, segment, services
+- Quarterly Business Reviews preparation >>> Last Capability Launched
+- Desing firm feature (under development)
 
-- Target audience and Stakeholders: Sales manager, Sales Global VP, Sales Operations team,  Sales, Marketing, Finance
+- Target audience: Sales manager by region /country, Account Manger, Strategic accounts manager, Finances
 - Active Users: 3000
-- Platform: Saleforce + AWS + Tableau Web 
+- Adoption 85% over the target
+- Platform: Saleforce (CRM) + AWS + Tableau Web Analitic/Tableau Site
+- Data Source: Saleforce (CRM) (Objects: Opportunities) + CHITU (CRM China) + RELTIO MDM + Other master data (sharepoint)
+- Architecture: five flow of data (ipelines) allocated in Sales Data Mart + shadow squema + DP in ADL (golden layer) + DP in UDL (silver layer)
 
 Home page example (dummy data used for data protection purposes)
 
@@ -266,7 +271,7 @@ Home page example (dummy data used for data protection purposes)
 ## Product 2: Platforming and Coverage
 
 
-Platforming & Coverage BI is the BI tool supporting the new E2E Growth Path strategy to improve our Digital Customer Journey. This tool is the reference to positively influence sales account mnager platforming and coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to undertan better the interaction between client - company and p to imporve the coverage of the diferrents accounts. ​​
+Platforming & Coverage BI is the BI tool supporting the new E2E Growth Path strategy to improve our Digital Customer Journey. This tool is the reference to positively influence sales account mnager platforming and coverage. It will enable Sales Excellence, Sales Leaders, and Sales Managers to undertan better the interaction between client - company and to imporve the coverage of the diferrents accounts. ​​
 
 Key Features
 - Understand their gaps in platforming ​& coverage
@@ -275,7 +280,7 @@ Key Features
 
 PLATFORMING​: 
 - View total accounts for my team/country in the 9-box view​
-- Customize the data view based on the info YOU wish to know.​
+- Customize the data view based on the info the user wish to know.​
  -View performance by bFO Sales, Net orders, Digital Engagement, etc…
 
 COVERAGE​: 
@@ -291,13 +296,16 @@ What is my country’s ranking?
 
 Solution:
 
-**Key KPIs**: active coverage 
-**Visuals**: Regional/segment filters, drill-through by account 
+**Key KPIs**: Total accounts - % of active accounts wiht platfoming, % Interactions
+**Visuals**: Account >>> Regional/segment filters, drill-through by account, country, sale manager, account manager
+**Metrics**: PAM. Sales, Orders, Pipeline (Opps), Visits, Interactions
 **Integration**: CRM + ERP + clientes
 
 - Target audience: Sales manager by region /country 
 - Active Users: 500
-- Platform: Saleforce + AWS + Tableau Web 
+- Adoption 85% over the target
+- Platform: Saleforce (CRM) + AWS + Tableau Web Analitic/Tableau Site
+- Data Source: Saleforce (CRM) (Objects: Opportunities, Cases & activities)+ RELTIO MDM + SAP (ERP) Object: Orders)
 
 Home page example (dummy data used for data protection purposes)
 
@@ -316,7 +324,9 @@ flowchart LR
     end
     C --> G[Adoption & usage metrics]
 
+Adoption - Monitoring Dashboard 
 
+![image](https://github.com/user-attachments/assets/13351d90-09bb-47aa-a1f9-732b259c071e)
 
 ............................................................................................................
 
