@@ -249,9 +249,10 @@ Solution:
 - Adoption 85% over the target
 - Platform: Saleforce (CRM) + AWS + Tableau Web Analitic/Tableau Site
 - Data Source: Saleforce (CRM) (Objects: Opportunities) + CHITU (CRM China) + RELTIO MDM + Other master data (sharepoint)
-- Architecture: five flow of data (ipelines) allocated in Sales Data Mart + shadow squema + DP in ADL (golden layer) + DP in UDL (silver layer)
+- Architecture: five flow of data (pipeline) allocated in Sales Data Mart + shadow squema + DP in ADL (golden layer) + DP in UDL (silver layer)
+- Size: Tableau Site 20 GB - Data Mart on AWS 0.8 TB
   
-Key Features​​​​​​​
+Key Features​​​​​​
 - Monitor segments and Targeted Accounts performance.
 - Pipeline evolution by month + waterfall explanation YoY, MoM + Pipeline Forecast 1- 2 yeras
 - Data-driven business insights & actionable intelligence
@@ -262,6 +263,7 @@ Key Features​​​​​​​
 - Deep dive abilities: by geography, segment, services
 - Quarterly Business Reviews preparation >>> Last Capability Launched
 - Desing firm feature (under development)
+
 
 
 Home page example (dummy data used for data protection purposes)
@@ -288,7 +290,7 @@ COVERAGE​:
 Am I covering my accounts as per their attractiveness​
 …as per my plan?​
 …as per their revenue or potential revenue?​
-Are there customers engaging with Schneider that I’m unaware of?​
+Are there customers engaging with the company that I’m unaware of?​
 
 BENCHMARK​: 
 
@@ -307,10 +309,17 @@ Solution:
 - Adoption 85% over the target
 - Platform: Saleforce (CRM) + AWS + Tableau Web Analitic/Tableau Site
 - Data Source: Saleforce (CRM) (Objects: Opportunities, Cases & activities)+ RELTIO MDM + SAP (ERP) Object: Orders)
+- Architecture: one flow of data (pipilin) allocated in XX Data Mart + shadow squema + DP in ADL (golden layer) + DP in UDL (silver layer)
+- Size: Tableau Site 2 GB - Data Mart on AWS 0.1 TB
 
 Home page example (dummy data used for data protection purposes)
 
 <img width="1742" height="843" alt="image" src="https://github.com/user-attachments/assets/f2618fe3-a8ea-44ca-9936-763c2f5cf291" />
+
+**Adoption - Monitoring Dashboard**
+
+![image](https://github.com/user-attachments/assets/13351d90-09bb-47aa-a1f9-732b259c071e)
+
 
 ## Architecture and Data Flow
 
@@ -325,9 +334,7 @@ flowchart LR
     end
     C --> G[Adoption & usage metrics]
 
-Adoption - Monitoring Dashboard 
 
-![image](https://github.com/user-attachments/assets/13351d90-09bb-47aa-a1f9-732b259c071e)
 
 ............................................................................................................
 
