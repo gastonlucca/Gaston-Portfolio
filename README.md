@@ -312,7 +312,7 @@ flowchart LR
     C --> D[Dashboards: Greenberry]
     C --> E[Dashboards: Platforming & Coverage]
     subgraph Governance
-    F[KPI Glossary & DCAM] --> C
+    F[KPI Glossary, Metrics & Business Rules] --> C
     end
     C --> G[Adoption & usage metrics]
 
