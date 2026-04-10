@@ -252,7 +252,7 @@ Solution:
 - Architecture: five flow of data (pipeline) allocated in Sales Data Mart + shadow squema + DP in ADL (golden layer) + DP in UDL (silver layer)
 - Size: Tableau Site 20 GB - Data Mart on AWS 0.8 TB
   
-Key Features​​​​​​
+Key Features​​​ . and capabilities deployed​​​
 - Monitor segments and Targeted Accounts performance.
 - Pipeline evolution by month + waterfall explanation YoY, MoM + Pipeline Forecast 1- 2 yeras
 - Data-driven business insights & actionable intelligence
@@ -262,6 +262,7 @@ Key Features​​​​​​
 - Strategic customer & Segment performance
 - Deep dive abilities: by geography, segment, services
 - Quarterly Business Reviews preparation >>> Last Capability Launched
+- Saturation Dashboards: Analysis by market segment of Schneider E. market share
 - Desing firm feature (under development)
 
 
